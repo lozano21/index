@@ -11,7 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "OL-ESPECIAL";
         echo "OL-Hola";
         echo "OL-Ara faré un segon commit";
         echo "OL-Ara en faré un tercer";
