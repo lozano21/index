@@ -14,6 +14,10 @@ and open the template in the editor.
         function ol_funcio1(){
             
         }
+        
+        function ol_funcio2(){
+            
+        }
 
 
         function OL_especial(){
