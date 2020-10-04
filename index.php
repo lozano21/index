@@ -17,6 +17,8 @@ and open the template in the editor.
         
         function OL_especial(){
             echo 'Oriol Lozano';
+            echo 'Daniel Indias';
+            echo 'Victor Cobo';
         }
         ?>
     </body>
