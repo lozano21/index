@@ -11,10 +11,11 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "OL-Hola";
-        echo "OL-Ara faré un segon commit";
-        echo "OL-Ara en faré un tercer";
-        
+        function ol_funcio1(){
+            
+        }
+
+
         function OL_especial(){
             
         }
