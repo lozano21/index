@@ -16,7 +16,7 @@ and open the template in the editor.
         echo "OL-Ara en faré un tercer";
         
         function OL_especial(){
-            
+            echo 'Oriol Lozano';
         }
         ?>
     </body>
