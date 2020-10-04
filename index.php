@@ -14,6 +14,10 @@ and open the template in the editor.
         echo "OL-Hola";
         echo "OL-Ara faré un segon commit";
         echo "OL-Ara en faré un tercer";
+        
+        function OL_especial(){
+            
+        }
         ?>
     </body>
 </html>
